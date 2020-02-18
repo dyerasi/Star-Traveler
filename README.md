@@ -8,3 +8,5 @@ Built for android
 
 The game can still be played without the arduino controller through arrow keys or w/a/s/d 
 
+![Background of game](vrgame2.png)
+![Background of game](vr game 1.png)
